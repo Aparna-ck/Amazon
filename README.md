@@ -14,3 +14,4 @@ check merge2
 
 checkmerge1(conflict)
 
+checkmerge 4
