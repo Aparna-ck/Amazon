@@ -8,3 +8,4 @@ add serach filter module
 
 product is displayed
 
+checkmerge1(conflict)
